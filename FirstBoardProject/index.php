@@ -8,6 +8,7 @@
         font-size:45px;
         margin-top:10px;
       }
+
       .content{
         font-size:25px;
       }
@@ -35,7 +36,7 @@
     </style>
   </head>
   <body style="text-align:center">
-    <h1 style="font-size:45px;"><a href="index.php">Board</a></h1>
+    <h1 style="font-size:45px;"><a style='color:black; text-decoration: none;' href="index.php">Board</a></h1>
     <?php
       require("lib/list.php");
      ?>
