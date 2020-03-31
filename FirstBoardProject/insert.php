@@ -14,7 +14,7 @@
     </style>
   </head>
   <body>
-    <h1 class="title"><a href="index.php">CREATE</a></h1>
+    <h1 class="title"><a style='color:black; text-decoration: none;'href="index.php">CREATE</a></h1>
     <form action="lib/process_insert.php" method="post">
       <span class="insert">
         Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
